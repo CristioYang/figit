@@ -5,7 +5,7 @@
 
 
 int main()
-{
+{/*this is test */
 	int a=0;
 	printf("hello git.");
 
